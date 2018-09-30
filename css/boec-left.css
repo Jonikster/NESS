@@ -1,0 +1,6 @@
+body{margin: 0 auto;background-color:#303030;color:#FFFFFF;max-width: 480px;background-color: #111}
+textarea {width:100%;max-width:600px}
+a{color:#00CC00;text-decoration:underline}
+.d{border: 1px solid #666;background-color:#303030;color:#808080;padding:4px;vertical-align:top;margin:2px}
+.f{background-color:#303030;padding:3px;text-align:left;border: 1px solid #666}
+a:hover{color: 4f7942}

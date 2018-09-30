@@ -1,0 +1,10 @@
+<?
+$serverdb='mysql.hostinger.ru';
+$userdb='u938174209_game';
+$passdb='qazwsxedc12';
+$namedb='u938174209_game';
+$gamename='GLOR';
+$filesfolder='gamefiles1704';
+$link=mysql_connect($serverdb,$userdb,$passdb);
+mysql_select_db($namedb);
+//error_reporting(0);//error_levl=6135
